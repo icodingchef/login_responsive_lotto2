@@ -1,16 +1,5 @@
 # login_responsive
 
-A new Flutter project.
+로또 앱 구현 두 번째 단계로, SVG 파일을 사용해서 로또 번호를 출력하고, UI를 좀 더 세련되게 개선한 앱입니다.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
